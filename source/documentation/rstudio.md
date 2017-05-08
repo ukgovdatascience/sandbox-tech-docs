@@ -23,4 +23,4 @@ You are now ready to start analysing your data.
 
 There are many popular R tutorials and courses available online, which will help you analyse your data. Examples include:
 
-\[insert]
+\[insert some links]
