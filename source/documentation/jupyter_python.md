@@ -16,8 +16,13 @@ import pandas as pd
 ```
 
 Additional Python packages are available [here](https://pypi.python.org/pypi).
+There are many popular Python tutorials and courses available online, which will help you get familiar with the language. Examples include:
 
-## Upload data
+* [The Python tutorial by the Python Software Foundation](https://docs.python.org/3/tutorial/)
+* [Python courses offered through Coursera](https://www.coursera.org/courses?languages=en&query=python)
+* \[insert others\]
+
+## Read data
 
 To read data from a .csv file into a Python dataframe, do the following:
 
@@ -33,6 +38,16 @@ You are now ready to start analysing your data.
 
 ## Data analysis
 
-There are many popular Python tutorials and courses available online, which will help you analyse your data. Examples include:
+There are many popular tutorials and courses available online, which will help you analyse your data using Python. Examples include:
 
-\[insert]
+* [Intro to Python for Data Science by DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* \[insert others]
+
+## Edit sandbox configuration
+
+In the \[root?\] of your Jupyter environment, click on the tab called ``conda``.
+This shows you which packages are already installed \(right hand side box\), and which new ones you can add \(left hand side box\) as follows:
+
+![screenshot showing Jupyter conda](/documentation/figures/jupyter-conda.png)
+
+Select the packages you wish to add, and click on ``update selected packages`` \(cloud icon with arrow\).

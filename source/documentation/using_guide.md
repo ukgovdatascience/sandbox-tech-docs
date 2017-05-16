@@ -6,7 +6,7 @@ This techincal documentation guide is designed to help you start using the tools
 
 The guide explains how to carry out basic operations such as uploading data,  simple data analysis and editing the configurartion of your sandbox through the development environment you have chosen \(ie Jupyter notebook or Rstudio\).
 
-If you prefer, you can edit the configuration of your sandbox and upload data through the web app, as explained in the final sections on this guide.
+If you prefer, you can edit the configuration of your sandbox and upload data through the web app, as explained in the final sections in this guide.
 
 ## Editing the guide
 

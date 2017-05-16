@@ -15,12 +15,16 @@ df <- read.csv('.../filepath.csv')
 ```
 where ``filepath`` refers to the location of your data.
 
-## Data analysis
-
 You are now ready to start analysing your data.
 
 ## Data analysis
 
 There are many popular R tutorials and courses available online, which will help you analyse your data. Examples include:
 
-\[insert some links]
+* [Introduction to R by DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Curated list of R tutorials for Data Science](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/)
+* \[insert others]
+
+## Edit sadbox configuration
+
+\[insert steps\]
