@@ -14,4 +14,4 @@ You are welcome to contribute to, edit and improve the documentation in this gui
 
 To edit the content on this page, go to:
 
-\[insert GitHub link\]
+[sandbox tech docs repo on GitHub](https://github.digital.cabinet-office.gov.uk/DataScience/sandbox-tech-docs/tree/master/source/documentation).
