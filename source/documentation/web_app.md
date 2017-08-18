@@ -1,7 +1,6 @@
 # Working through the web app
 
+## RStudio
+
 ## Jupyter
 
-### Upload data
-
-## RStudio
