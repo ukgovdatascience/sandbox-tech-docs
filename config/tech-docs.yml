@@ -9,8 +9,7 @@ phase: Prototype
 
 # Links to show on right-hand-side of header
 header_links:
-  About: https://analyst-sandbox-prototype.herokuapp.com/about
-  Get Started: https://analyst-sandbox-prototype.herokuapp.com/
+  Get Started: https://sandbox-mgt.cloudapps.digital/
   Documentation: /
   Support: mailto:data-science-sandbox@digital.cabinet-office.gov.uk
 
