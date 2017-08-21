@@ -14,8 +14,8 @@ To upload datasets, scripts, or other files to the RStudio IDE in a web browser 
 
 1. Switch to the Files pane
 2. Navigate to the directory you wish to upload files into
-3. Click the 'Upload toolbar' button
-4. Choose the file you wish to upload and press 'OK'
+3. Click the ‘Upload’ button in the toolbar of the Files pane
+4. Choose the file you wish to upload from your computer and press 'OK'
 
 * Note that if you wish to upload several files or even an entire folder, you should first compress your files or folder into a zip file and then upload the zip file (when RStudio receives an uploaded zip file it automatically uncompresses it).
 
