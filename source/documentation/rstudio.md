@@ -6,7 +6,7 @@ If you are unfamiliar with the RStudio Integrated Development Environment (IDE) 
 2. ['Working with RStudio' course by DataCamp](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1/)
 3. [Official RStudio documentation](https://support.rstudio.com/hc/en-us/sections/203994097-RStudio-IDE/)
 
-## Upload and downloading files using RStudio in a web browser
+## Uploading and downloading files to RStudio in your Sandbox
 
 ### Uploading Files
 
@@ -15,7 +15,7 @@ To upload datasets, scripts, or other files to the RStudio IDE in a web browser 
 1. Switch to the Files pane
 2. Navigate to the directory you wish to upload files into
 3. Click the 'Upload toolbar' button
-4. Choose the file you wish to upload and press OK
+4. Choose the file you wish to upload and press 'OK'
 
 * Note that if you wish to upload several files or even an entire folder, you should first compress your files or folder into a zip file and then upload the zip file (when RStudio receives an uploaded zip file it automatically uncompresses it).
 
@@ -38,7 +38,7 @@ If you have a data file that is accessible from a website URL you can read it in
 
 ```
 # Install the RCurl package 
-install.packages("Rcurl")
+install.packages("RCurl")
 
 # Load the RCurl library
 library(RCurl)
